@@ -22,7 +22,7 @@ Self-service BI tool that uses Google Gemini to autonomously explore data, recom
 ## How to Run
 
 ```bash
-git clone https://github.com/guilhermehrsilva/data-insight-ai.git
+git clone https://github.com/guilhermerissondev/data-insight-ai.git
 cd data-insight-ai
 pip install -r requirements.txt
 streamlit run app.py
